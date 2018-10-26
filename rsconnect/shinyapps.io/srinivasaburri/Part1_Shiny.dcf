@@ -1,0 +1,12 @@
+name: Part1_Shiny
+title: Part1_Shiny
+username:
+account: srinivasaburri
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 537297
+bundleId: 1665336
+url: https://srinivasaburri.shinyapps.io/Part1_Shiny/
+when: 1540582665.09753
+asMultiple: FALSE
+asStatic: FALSE
